@@ -1,0 +1,44 @@
+{
+  "register": [
+    {
+      "fullname": "terter",
+      "email": "shobana.r@gmail.com",
+      "address": "ertret",
+      "city": "retert",
+      "number": "9888888888",
+      "password": "shobana",
+      "confPassword": "shobana",
+      "id": 1
+    },
+    {
+      "fullname": "dddddddgdfg",
+      "email": "shobana.r@gmail.com",
+      "address": "dgdfg",
+      "city": "dfgfg",
+      "number": "9888888888",
+      "password": "shobana",
+      "confPassword": "shobana",
+      "id": 2
+    },
+    {
+      "fullname": "sfsfs",
+      "email": "shobana.r@gmail.com",
+      "address": "sdfdf",
+      "city": "sdfdf",
+      "number": "9888888888",
+      "password": "shobana",
+      "confPassword": "shobana",
+      "id": 3
+    },
+    {
+      "fullname": "sdfsdfs",
+      "email": "shobana.r@gmail.com",
+      "address": "dfdsf",
+      "city": "sdfsdf",
+      "number": "9888888888",
+      "password": "shobana",
+      "confPassword": "shobana",
+      "id": 4
+    }
+  ]
+}
